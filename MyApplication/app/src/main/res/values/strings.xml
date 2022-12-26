@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="left_button_text">Beautiful text</string>
+    <string name="right_button_text">Enter important data</string>
+</resources>
